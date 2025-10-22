@@ -37,7 +37,7 @@ A powerful web scraper built with Playwright that extracts product information f
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/MujtabaIT2002/terminal_based_daraz_scrappe>
 cd terminal-scrapper
 ```
 
@@ -52,16 +52,6 @@ npx playwright install chromium
 ```
 
 ## 💻 Usage
-
-### For Amazon:
-```bash
-node Scrapper.js "mechanical keyboard"
-```
-
-### For Daraz:
-```bash
-node Scrapper.js "wireless mouse"
-```
 
 ### General syntax:
 ```bash
