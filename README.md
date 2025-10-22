@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Product Scraper
 
-A powerful web scraper built with Playwright that extracts product information from e-commerce websites like Amazon and Daraz. The scraper captures product titles, prices, ratings, reviews, and takes screenshots of search results.
+A powerful web scraper built with Playwright that extracts product information from e-commerce websites like Daraz. The scraper captures product titles, prices, ratings, reviews, and takes screenshots of search results.
 
 ## ✨ Features
 
